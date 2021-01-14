@@ -14,5 +14,5 @@ This project uses MVC structure.
 ## Usage
 Clone and use 
 ```console
-git clone https://github.com/AP-Atul/node-express-mysql-api
+https://github.com/AP-Atul/node-express-mysql-api.git
 ```
